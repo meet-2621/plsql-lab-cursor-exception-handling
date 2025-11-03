@@ -9,14 +9,14 @@ This repository contains my **PL/SQL Lab 3 & Lab 4** assignments focused on two 
 The lab demonstrates how to manage data retrieval and error handling effectively within database programs using PL/SQL.  
 It includes examples of both **student** and **employee** database operations.
 
-### 🔹 Lab 3: Cursors in PL/SQL
+### 🔹Cursors in PL/SQL
 Topics covered:
 - Creating and using **explicit** and **parameterized cursors**
 - Working with `%TYPE` and `%ROWTYPE`
 - Stored **procedures** and **functions** using cursors
 - Calculating totals, averages, and filtering records dynamically
 
-### 🔹 Lab 4: Exception Handling in PL/SQL
+### 🔹Exception Handling in PL/SQL
 Topics covered:
 - Handling **predefined exceptions** (`NO_DATA_FOUND`, `TOO_MANY_ROWS`, `OTHERS`)
 - Implementing **user-defined exceptions** for custom validation
