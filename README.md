@@ -1,4 +1,4 @@
-# 🧠 PL/SQL Lab Assignment – Cursors & Exception Handling
+# 🧠 PL/SQL – Cursors & Exception Handling
 
 This repository contains my **PL/SQL Lab 3 & Lab 4** assignments focused on two important concepts in Oracle PL/SQL — **Cursors** and **Exception Handling**.
 
